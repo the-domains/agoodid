@@ -1,0 +1,14 @@
+layout_spectrum: 0.8240411055739969
+typography_spectrum: 0.5204170788638294
+color:
+  brandStrength: 0.3318742879200727
+  lightness: 0.6403387871105224
+  saturation: 0.33285070583224297
+  rhythmicContrast: 0.28074710024520755
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: AGoodId
